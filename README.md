@@ -18,7 +18,7 @@
 
 ## 🚀 Live Preview
 
-Experience the live version here: [EventHive-ISB Live Demo](https://yourusername.github.io/EventHive-ISB/)
+Experience the live version here: [EventHive-ISB Live Demo](https://m-mustafa512.github.io/EventHive-ISB/)
 
 
 
@@ -34,9 +34,4 @@ Experience the live version here: [EventHive-ISB Live Demo](https://yourusername
 
 ## 📂 Project Structure
 
-EventHive-ISB/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── script.js # JavaScript functionality
-├── .gitignore # Git ignore file
-└── README.md # Project documentation
+<pre> ``` EventHive-ISB/ ├── index.html # Main HTML file ├── style.css # Stylesheet ├── script.js # JavaScript functionality ├── .gitignore # Git ignore file └── README.md # Project documentation ``` </pre>
